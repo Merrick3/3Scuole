@@ -12,6 +12,7 @@ async def help(update: Update, context: ContextTypes.DEFAULT_TYPE):
         /settypepupr: metti se vuoi la scuola pubblica o privata
         /settypesc: metti che tipo di scuola vuoi. Es: asilo, elementari, ecc...
         /settypehs: metti il tipo di scuola secondaria che vuoi. Es: liceo classico, liceo lingustico, liceo delle scienze umane, ecc...
+        /orientamento: rispondi a delle domande per capire che indirizzo di scuola superiore fa per te
         """)
 async def lingua(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("""Scegli la lingua/choose the language:
@@ -48,6 +49,8 @@ async def hs(update: Update, context: ContextTypes.DEFAULT_TYPE):
         3 Liceo linguistico
         4 Tecnico Industriale
         ecc...""")
+async def quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    await update.message.reply_text("""Domandeh""")
 def main():
     app = ApplicationBuilder().token(TOKEN).build()
     app.add_handler(CommandHandler('help', help))
@@ -56,8 +59,8 @@ def main():
     app.add_handler(CommandHandler('settypesc', sc))
     app.add_handler(CommandHandler('settypepupr', pupr))
     app.add_handler(CommandHandler('settypehs', hs))
+    app.add_handler(CommandHandler('orientamento', quiz))
     app.run_polling()
 
-   
 if __name__=='__main__':
    main()
