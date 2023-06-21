@@ -1,12 +1,12 @@
-Nome scuola,Indirizzo,Grado,Forma,Sito
-Scuola Primaria Paolo Caliari,Via Gino Ferroni 4,Primaria,Pubblica,https://www.icmozzecane.edu.it/scuola-primaria-mozzecane 
-Scuola Secondaria di primo grado Italo Montemezzi,Via XXV Aprile snc,Secondaria I Grado,Pubblica,In aggiornamento per Info contattare Comune Mozzecane
-Scuola dell'Infanzia Benigno Zaccagnini,Via dell'Aviatore,Infanzia,Privata,http://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/VR1AZQ500Q/scuola-dellinfanzia-scuola-comunale-benigno-zaccag/ 
-Scuola dell'Infanzia Beato Giuseppe Baldo,Via Crocetta 1,Infanzia,Privata,https://www.comunemozzecane.it/it/point-of-interest/scuola-materna-privata-beato-giuseppe-baldo 
-Scuola dellíinfanzia Francesco Miniscalchi,Via Francesco Miniscalchi 2,Infanzia,Privata,https://www.paginegialle.it/mozzecane-vr/scuole-pubbliche/scuola-infanzia-paritaria-miniscalchi-erizzo 
-asilo nido La caramella,Via Caterina Bon Brenzoni 78,Asilo nido,Privata,https://www.facebook.com/asilonidolacaramella/?locale=it_IT 
-Asilo nido Il cavalluccio marino,Via Paolo Borsellino 2B,Asilo nido,Privata,https://www.facebook.com/asilonidoilcavallucciomarino/?locale=it_IT 
-Steiner-Waldorf,Localit‡ Laura 3,Infanzia,Privata,http://www.scuolawaldorfverona.it/it/contattaci 
-Steiner-Waldorf,Localit‡ Laura 3,Primaria,Privata,http://www.scuolawaldorfverona.it/it/contattaci 
-Steiner-Waldorf,Localit‡ Laura 4,Secondaria I Grado,Privata,http://www.scuolawaldorfverona.it/it/contattaci 
-Istituto delle Poverette della Casa Nazareth,Via Duca degli Abruzzi 5,CFP,Privata,http://www.casanazareth.it/ 
+Nome scuola,Indirizzo,Grado,Forma,Sito,Telefono,Mail,Aiuto Disabilita
+Scuola Primaria Paolo Caliari,Via Gino Ferroni 4,Primaria,Pubblica,https://www.icmozzecane.edu.it/scuola-primaria-mozzecane ,045 7930050,vric895002@istruzione.it,s√¨
+Scuola Secondaria di primo grado Italo Montemezzi,Via XXV Aprile snc,Secondaria I Grado,Pubblica,In aggiornamento per Info contattare Comune Mozzecane,In aggiornamento per Info contattare Comune Mozzecane,In aggiornamento per Info contattare Comune Mozzecane,
+Scuola dell'Infanzia Benigno Zaccagnini,Via dell'Aviatore,Infanzia,Privata,http://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/VR1AZQ500Q/scuola-dellinfanzia-scuola-comunale-benigno-zaccag/ ,3357862514,SOLCOVR@OMNIPEC.IT,non specificato
+Scuola dell'Infanzia Beato Giuseppe Baldo,Via Crocetta 1,Infanzia,Privata,https://www.comunemozzecane.it/it/point-of-interest/scuola-materna-privata-beato-giuseppe-baldo ,0457975323,protocollo@comunemozzecane.it,non specificato
+Scuola dell‚Äôinfanzia Francesco Miniscalchi,Via Francesco Miniscalchi 2,Infanzia,Privata,https://www.paginegialle.it/mozzecane-vr/scuole-pubbliche/scuola-infanzia-paritaria-miniscalchi-erizzo ,0455547305,scuolamaternaszeno@libero.it,non specificato
+asilo nido La caramella,Via Caterina Bon Brenzoni 78,Asilo nido,Privata,https://www.facebook.com/asilonidolacaramella/?locale=it_IT ,045 634 0825,asilonidolacaramella@alice.it,non specificato
+Asilo nido Il cavalluccio marino,Via Paolo Borsellino 2B,Asilo nido,Privata,https://www.facebook.com/asilonidoilcavallucciomarino/?locale=it_IT ,045 634 0511,info@ilcavallucciomarino.eu,non specificato
+Steiner-Waldorf,Localit√† Laura 3,Infanzia,Privata,http://www.scuolawaldorfverona.it/it/contattaci ,045 55 49 256,segreteria@scuolawaldorfverona.it,non specificato
+Steiner-Waldorf,Localit√† Laura 3,Primaria,Privata,http://www.scuolawaldorfverona.it/it/contattaci ,045 55 49 256,segreteria@scuolawaldorfverona.it,non specificato
+Steiner-Waldorf,Localit√† Laura 4,Secondaria I Grado,Privata,http://www.scuolawaldorfverona.it/it/contattaci ,045 55 49 256,segreteria@scuolawaldorfverona.it,non specificato
+Istituto delle Poverette della Casa Nazareth,Via Duca degli Abruzzi 5,CFP,Privata,http://www.casanazareth.it/ ,045 68 61 088,info@casanazaret.it,non specificato 
