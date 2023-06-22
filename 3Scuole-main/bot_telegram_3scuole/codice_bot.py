@@ -7,17 +7,12 @@ with open(r"C:\Users\Simone\Documents\GitHub\3scuole fork\3Scuole\3Scuole-main\b
     #print("Il tuo token è ", TOKEN)
 async def help(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("""Comandi disponibili:
-        /setlingua: scegli la lingua, choose the language
         /setlocation: metti il paese da dove vuoi cercare
         /settypepupr: metti se vuoi la scuola pubblica o privata
         /settypesc: metti che tipo di scuola vuoi. Es: asilo, elementari, ecc...
         /settypehs: metti il tipo di scuola secondaria che vuoi. Es: liceo classico, liceo lingustico, liceo delle scienze umane, ecc...
         /orientamento: rispondi a delle domande per capire che indirizzo di scuola superiore fa per te
         """)
-async def lingua(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text("""Scegli la lingua/choose the language:
-        1 per italiano
-        2 for english""")
 async def paese(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("""Scegli il paese:
         1 Sona
@@ -54,7 +49,6 @@ async def quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
 def main():
     app = ApplicationBuilder().token(TOKEN).build()
     app.add_handler(CommandHandler('help', help))
-    app.add_handler(CommandHandler('setlingua', lingua))
     app.add_handler(CommandHandler('setlocation', paese))
     app.add_handler(CommandHandler('settypesc', sc))
     app.add_handler(CommandHandler('settypepupr', pupr))
