@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # IMPORTANTE: inserire il token fornito dal BotFather nella seguente stringa
-with open("token.txt", "r") as f:
+with open(r"C:\Users\Simone\Documents\GitHub\3scuole fork\3Scuole\3Scuole-main\bot_telegram_3scuole\token.txt", "r") as f:
     TOKEN = f.read()
     #print("Il tuo token è ", TOKEN)
 async def help(update: Update, context: ContextTypes.DEFAULT_TYPE):
