@@ -1,17 +1,17 @@
-Nome scuola,Indirizzo,Grado,Forma,Sito,Telefono,Mail,Aiuto disabilita
-Asilo Nido Il Germoglio,Piazza Monsignor Bacilieri 5,Asilo nido,Pubblica,https://www.sportellofamigliabussolengo.it/asilo-nido-comunale-il-germoglio/,056 6702893,nidoilgermoglio@gmail.com,non specificato
-Asilo Nido Il Mondo Delle Fiabe,Via Mastino Primo della Scala 6/8,Asilo nido,Privata,https://www.nidoilmondodellefiabe.it/,0452820279,ilmondodellefiabe@gmail.com,non specificato
-'Asilo Nido L''albero Azzurro Di Comencini Cinzia',Piazza Danese Emilio 11,Asilo nido,Privata,https://www.nidolalberoazzurro.it/ ,045 6700124,micronidolalberoazzurro@gmail.com,non specificato
-Micronido Il Paese Degli Elfi,Piazzale Vittorio Veneto 82,Asilo nido,Privata,https://www.facebook.com/MicroNidoIlPaeseDegliElfi/ ,347 178 1365,ilpaesedeglielfi@libero.it,non specificato
-'La Casa Dell''arcobaleno',Via Giovanni Falcone 8  loc. S.Vito al Mantico,Asilo nido,Privata,https://www.nidobaleno.it/ ,340 1035665,,non specificato
-La Giostra,Via Marmolada 27,Infanzia,Pubblica,https://www.icbussolengo.it/pagine/la-giostra ,045-6702883,vric81300d@istruzione.it,non specificato
-Il Gabbiano,Via Marmolada 27,Infanzia,Pubblica,https://www.icbussolengo.it/pagine/il-gabbiano ,045-6702883,vric81300d@istruzione.it,non specificato
-'L''albero',Via Mazzini 170,Infanzia,Pubblica,https://www.icbussolengo.it/pagine/lalbero ,045-6700224,vric81300d@istruzione.it,non specificato
-Il Fiore,Via Piemonte 97,Infanzia,Pubblica,https://www.icbussolengo.it/pagine/il-fiore ,045-6702555,vric81300d@istruzione.it,non specificato
-San Valentino,Via Marmolada 27,Infanzia,Pubblica,https://www.icbussolengo.it/pagine/san-valentino ,045-6702883,vric81300d@istruzione.it,non specificato
-Piccolo Principe,Via Verona 2,Infanzia,Privata,http://www.piccoloprincipebussolengo.it/ ,045 6704288,info@piccoloprincipebussolengo.it,non specificato
-Fondazione Mons. Angelo Bacilieri,Piazza Mons. Bacilieri 4,Infanzia,Privata,http://www.scuolabacilieri.it/ ,0457150376,scuolabacilieri@gmail.com,non specificato
-Beni Montresor,Via Martiri delle Foibe 30,Primaria,Pubblica,https://www.icbussolengo.it/pagine/beni-montresor ,045-7156673,vric81300d@istruzione.it,non specificato
-Citella,Via Citella 48,Primaria,Pubblica,https://www.icbussolengo.it/pagine/citella ,045-6702880,vric81300d@istruzione.it,non specificato
-Lorenzo Calabrese - S.Vito,Via Piemonte 97,Primaria,Pubblica,https://www.icbussolengo.it/pagine/l-calabrese ,045-6702943,vric81300d@istruzione.it,non specificato
-Istituto Marie Curie - Sede Bussolengo,Via Carlo Alberto Dalla Chiesa 10,Secondaria II Grado,Pubblica,https://www.iismariecurievr.edu.it/ ,045/6270680,vris017001@istruzione.it,sì
+Nome scuola,Indirizzo,Grado,Forma,Sito,Telefono,Mail,Aiuto disabilità,Linguistico,Classico,Scientifico,Scienze Applicate,Scienze Umane,Economico Sociale,Artistico,Telecomunicazioni,Automazione,Informatica,ITI 4 Anni,Turistico,Web Community,Finanza e Marketing,Relazioni per il Marketing,Sistemi Aziendali,Turistico Sportivo
+Asilo Nido Il Germoglio,Piazza Monsignor Bacilieri 5,Asilo nido,Pubblica,https://www.sportellofamigliabussolengo.it/asilo-nido-comunale-il-germoglio/,056 6702893,nidoilgermoglio@gmail.com,non specificato,,,,,,,,,,,,,,,,,
+Asilo Nido Il Mondo Delle Fiabe,Via Mastino Primo della Scala 6/8,Asilo nido,Privata,https://www.nidoilmondodellefiabe.it/,0452820279,ilmondodellefiabe@gmail.com,non specificato,,,,,,,,,,,,,,,,,
+'Asilo Nido L''albero Azzurro Di Comencini Cinzia',Piazza Danese Emilio 11,Asilo nido,Privata,https://www.nidolalberoazzurro.it/ ,045 6700124,micronidolalberoazzurro@gmail.com,non specificato,,,,,,,,,,,,,,,,,
+Micronido Il Paese Degli Elfi,Piazzale Vittorio Veneto 82,Asilo nido,Privata,https://www.facebook.com/MicroNidoIlPaeseDegliElfi/ ,347 178 1365,ilpaesedeglielfi@libero.it,non specificato,,,,,,,,,,,,,,,,,
+'La Casa Dell''arcobaleno',Via Giovanni Falcone 8  loc. S.Vito al Mantico,Asilo nido,Privata,https://www.nidobaleno.it/ ,340 1035665,,non specificato,,,,,,,,,,,,,,,,,
+La Giostra,Via Marmolada 27,Infanzia,Pubblica,https://www.icbussolengo.it/pagine/la-giostra ,045-6702883,vric81300d@istruzione.it,non specificato,,,,,,,,,,,,,,,,,
+Il Gabbiano,Via Marmolada 27,Infanzia,Pubblica,https://www.icbussolengo.it/pagine/il-gabbiano ,045-6702883,vric81300d@istruzione.it,non specificato,,,,,,,,,,,,,,,,,
+'L''albero',Via Mazzini 170,Infanzia,Pubblica,https://www.icbussolengo.it/pagine/lalbero ,045-6700224,vric81300d@istruzione.it,non specificato,,,,,,,,,,,,,,,,,
+Il Fiore,Via Piemonte 97,Infanzia,Pubblica,https://www.icbussolengo.it/pagine/il-fiore ,045-6702555,vric81300d@istruzione.it,non specificato,,,,,,,,,,,,,,,,,
+San Valentino,Via Marmolada 27,Infanzia,Pubblica,https://www.icbussolengo.it/pagine/san-valentino ,045-6702883,vric81300d@istruzione.it,non specificato,,,,,,,,,,,,,,,,,
+Piccolo Principe,Via Verona 2,Infanzia,Privata,http://www.piccoloprincipebussolengo.it/ ,045 6704288,info@piccoloprincipebussolengo.it,non specificato,,,,,,,,,,,,,,,,,
+Fondazione Mons. Angelo Bacilieri,Piazza Mons. Bacilieri 4,Infanzia,Privata,http://www.scuolabacilieri.it/ ,0457150376,scuolabacilieri@gmail.com,non specificato,,,,,,,,,,,,,,,,,
+Beni Montresor,Via Martiri delle Foibe 30,Primaria,Pubblica,https://www.icbussolengo.it/pagine/beni-montresor ,045-7156673,vric81300d@istruzione.it,non specificato,,,,,,,,,,,,,,,,,
+Citella,Via Citella 48,Primaria,Pubblica,https://www.icbussolengo.it/pagine/citella ,045-6702880,vric81300d@istruzione.it,non specificato,,,,,,,,,,,,,,,,,
+Lorenzo Calabrese - S.Vito,Via Piemonte 97,Primaria,Pubblica,https://www.icbussolengo.it/pagine/l-calabrese ,045-6702943,vric81300d@istruzione.it,non specificato,,,,,,,,,,,,,,,,,
+Istituto Marie Curie - Sede Bussolengo,Via Carlo Alberto Dalla Chiesa 10,Secondaria II Grado,Pubblica,https://www.iismariecurievr.edu.it/ ,045/6270680,vris017001@istruzione.it,sì,sì,,sì,sì,sì,,,,,,,sì,,,sì,sì,sì
