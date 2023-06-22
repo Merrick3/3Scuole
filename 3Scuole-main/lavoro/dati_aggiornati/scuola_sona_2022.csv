@@ -1,14 +1,14 @@
-Nome scuola,Indirizzo,Grado,Forma,Sito,Telefono,Mail,Aiuto Disabilità
-SULL’ARCOBALENO,Via Giosuè Carducci 10 37060 Lugagnano di Sona (VR),Asilo nido,Pubblica,https://www.facebook.com/p/Asilo-nido-SullArcobaleno-100063516431226/ ,045 984933,arcobaleno@linfanzia.it,non specificato
-Cav. Girelli,Via Cavalier Antonio Girelli 37060 Palazzolo di Sona (VR),Infanzia,Pubblica,http://infanziapalazzolo.weebly.com/progetti1.html,0456080480,asilopalazzolo@libero.it,non specificato
-Don Eliseo Panardo,Via Santini 7 37060 San Giorgio in Salici (VR),Infanzia,Pubblica,http://www.scuoladep.it/ ,045-7190038,coordinatrice@scuoladep.it e presidente@scuoladep.it,non specificato
-Don Fracasso,Via Don Fracasso 3 37060 Lugagnano di Sona (VR),Infanzia,Pubblica,https://www.infanzialugagnano.it/it/scuola-infanzia-lugagnano ,045 514101, coordinatrice@infanzialugagnano.it e segreteria@infanzialugagnano.it,non specificato
-Cavalier Romani,Via Roma 21 37060 Sona (VR),Infanzia,Pubblica,http://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/VRAA814016/cavalier-annibale-romani/ ,0456081300,VRIC814009@istruzione.it,sì
-Statale di Lugagnano di Sona,via Papa Giovanni Paolo II 37060 Lugagnano di Sona (VR),Infanzia,Pubblica,https://www.iclugagnano.edu.it/pagine/infanzia ,045-984558,vric83800t@istruzione.it,non specificato
-A. Aleardi,Via Roma 21 37060 Sona (VR),Primaria,Pubblica,http://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/VREE81403D/sona-aleardi-a/ ,0456081300,VRIC814009@istruzione.it,sì
-Don G.Bosco,Via Castello 5 37060 Palazzolo di Sona VR,Primaria,Pubblica,http://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/VREE81402C/palazzolo-sgiovanni-bosco/ ,0456081300,VRIC814009@istruzione.it,sì
-C.Collodi,Via Celà 37060 San Giorgio in Salici VR,Primaria,Pubblica,http://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/VREE88403Q/collodi-c/ ,0458900628,VRIC88400G@istruzione.it,sì
-Primaria statale Silvio Pellico,Via Don Minzoni 2 37060 Lugagnano VR,Primaria,Pubblica,https://www.icspellicolettere.edu.it/ ,0818021218,naic8as00a@istruzione.it,non specificato
-Virgilio,Via Giovan Battista Pergolesi 13 37060 Sona VR,Secondaria I Grado,Pubblica,https://www.icsona.edu.it/ ,045 6081300,vric814009@istruzione.it,non specificato
-Anna Frank,Via Giosuè Carducci 10 37060 Lugagnano di Sona (VR),Secondaria I Grado,Pubblica,https://www.iclugagnano.edu.it/pagine/secondaria-anna-frank ,0458699665,vric83800t@istruzione.it,non specificato
-Angolo delle Coccole,Via Don Fracasso 1 37060 Sona VR,Asilo nido,Privata,http://www.langolodellecoccole.it/ ,045 8680501,info@langolodellecoccole.it,non specificato
+Nome scuola,Indirizzo,Grado,Forma,Sito,Telefono,Mail,Aiuto disabilità,Linguistico,Classico,Scientifico,Scienze Applicate,Scienze Umane,Economico Sociale,Artistico,Telecomunicazioni,Automazione,Informatica,ITI 4 Anni,Turistico,Web Community,Finanza e Marketing,Relazioni per il Marketing,Sistemi Aziendali,Turistico Sportivo
+SULL’ARCOBALENO,Via Giosuè Carducci 10 37060 Lugagnano di Sona (VR),Asilo nido,Pubblica,https://www.facebook.com/p/Asilo-nido-SullArcobaleno-100063516431226/ ,045 984933,arcobaleno@linfanzia.it,non specificato,,,,,,,,,,,,,,,,,
+Cav. Girelli,Via Cavalier Antonio Girelli 37060 Palazzolo di Sona (VR),Infanzia,Pubblica,http://infanziapalazzolo.weebly.com/progetti1.html,0456080480,asilopalazzolo@libero.it,non specificato,,,,,,,,,,,,,,,,,
+Don Eliseo Panardo,Via Santini 7 37060 San Giorgio in Salici (VR),Infanzia,Pubblica,http://www.scuoladep.it/ ,045-7190038,coordinatrice@scuoladep.it e presidente@scuoladep.it,non specificato,,,,,,,,,,,,,,,,,
+Don Fracasso,Via Don Fracasso 3 37060 Lugagnano di Sona (VR),Infanzia,Pubblica,https://www.infanzialugagnano.it/it/scuola-infanzia-lugagnano ,045 514101, coordinatrice@infanzialugagnano.it e segreteria@infanzialugagnano.it,non specificato,,,,,,,,,,,,,,,,,
+Cavalier Romani,Via Roma 21 37060 Sona (VR),Infanzia,Pubblica,http://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/VRAA814016/cavalier-annibale-romani/ ,0456081300,VRIC814009@istruzione.it,sì,,,,,,,,,,,,,,,,,
+Statale di Lugagnano di Sona,via Papa Giovanni Paolo II 37060 Lugagnano di Sona (VR),Infanzia,Pubblica,https://www.iclugagnano.edu.it/pagine/infanzia ,045-984558,vric83800t@istruzione.it,non specificato,,,,,,,,,,,,,,,,,
+A. Aleardi,Via Roma 21 37060 Sona (VR),Primaria,Pubblica,http://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/VREE81403D/sona-aleardi-a/ ,0456081300,VRIC814009@istruzione.it,sì,,,,,,,,,,,,,,,,,
+Don G.Bosco,Via Castello 5 37060 Palazzolo di Sona VR,Primaria,Pubblica,http://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/VREE81402C/palazzolo-sgiovanni-bosco/ ,0456081300,VRIC814009@istruzione.it,sì,,,,,,,,,,,,,,,,,
+C.Collodi,Via Celà 37060 San Giorgio in Salici VR,Primaria,Pubblica,http://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/VREE88403Q/collodi-c/ ,0458900628,VRIC88400G@istruzione.it,sì,,,,,,,,,,,,,,,,,
+Primaria statale Silvio Pellico,Via Don Minzoni 2 37060 Lugagnano VR,Primaria,Pubblica,https://www.icspellicolettere.edu.it/ ,0818021218,naic8as00a@istruzione.it,non specificato,,,,,,,,,,,,,,,,,
+Virgilio,Via Giovan Battista Pergolesi 13 37060 Sona VR,Secondaria I Grado,Pubblica,https://www.icsona.edu.it/ ,045 6081300,vric814009@istruzione.it,non specificato,,,,,,,,,,,,,,,,,
+Anna Frank,Via Giosuè Carducci 10 37060 Lugagnano di Sona (VR),Secondaria I Grado,Pubblica,https://www.iclugagnano.edu.it/pagine/secondaria-anna-frank ,0458699665,vric83800t@istruzione.it,non specificato,,,,,,,,,,,,,,,,,
+Angolo delle Coccole,Via Don Fracasso 1 37060 Sona VR,Asilo nido,Privata,http://www.langolodellecoccole.it/ ,045 8680501,info@langolodellecoccole.it,non specificato,,,,,,,,,,,,,,,,,
