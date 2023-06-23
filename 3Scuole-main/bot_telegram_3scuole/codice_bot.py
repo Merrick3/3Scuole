@@ -15,17 +15,7 @@ with open(r"C:\Users\Simone\Documents\GitHub\3scuole fork\3Scuole\3Scuole-main\b
     TOKEN = f.read()
     bot = Bot(TOKEN)
     dp =  Dispatcher(bot)
-button0 = InlineKeyboardButton(text='Bussolengo', callback_data = '1')
-button1 = InlineKeyboardButton(text='Castelnuovo', callback_data = '2')
-button2 = InlineKeyboardButton(text='Lazise', callback_data = '3')
-button3 = InlineKeyboardButton(text='Mozzecane', callback_data = '4')
-button4 = InlineKeyboardButton(text='Pastrengo', callback_data = '5')
-button5 = InlineKeyboardButton(text='Pescantina', callback_data = '6')
-button6 = InlineKeyboardButton(text='Sommacampagna', callback_data = '7')
-button7 = InlineKeyboardButton(text='Sona', callback_data = '8')
-button8 = InlineKeyboardButton(text='Valeggio', callback_data = '9')
-button9 = InlineKeyboardButton(text='Vigasio', callback_data = '10')
-button10 = InlineKeyboardButton(text='Villafranca', callback_data = '11')
+
     #print("Il tuo token è ", TOKEN)
 
 async def avvia(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -55,6 +45,17 @@ async def paese(update: Update, context: ContextTypes.DEFAULT_TYPE):
         11 Vigasio)
 """
 async def paese(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    button0 = InlineKeyboardButton(text='Bussolengo', callback_data = '1')
+    button1 = InlineKeyboardButton(text='Castelnuovo', callback_data = '2')
+    button2 = InlineKeyboardButton(text='Lazise', callback_data = '3')
+    button3 = InlineKeyboardButton(text='Mozzecane', callback_data = '4')
+    button4 = InlineKeyboardButton(text='Pastrengo', callback_data = '5')
+    button5 = InlineKeyboardButton(text='Pescantina', callback_data = '6')
+    button6 = InlineKeyboardButton(text='Sommacampagna', callback_data = '7')
+    button7 = InlineKeyboardButton(text='Sona', callback_data = '8')
+    button8 = InlineKeyboardButton(text='Valeggio', callback_data = '9')
+    button9 = InlineKeyboardButton(text='Vigasio', callback_data = '10')
+    button10 = InlineKeyboardButton(text='Villafranca', callback_data = '11')
     keyboard_inline = InlineKeyboardMarkup().add(button0, button1, button2, button3, button4, button5, button6, button7, button8, button9, button10)
 """
 def on_chat_message(msg):
